@@ -12,6 +12,6 @@
     "default_icon": "icon.png"
   },
   "background": {
-    "scripts": ["background.js", "jquery-3.4.1.min.js"]
+    "scripts": ["background.js", "jquery-3.4.1.min.js", "keys.js"]
   }
 }
